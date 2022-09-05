@@ -1,3 +1,5 @@
+![sam-astros's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaptainQWasTaken&theme=github_dark)
+
 - 👋 Hi, I’m @CaptainQWasTaken
 - 🌱 I’m currently making games with C#, C, HTML, CSS, JS and Python!
 - 📫 Reach me on discord: CaptainQ#7331
