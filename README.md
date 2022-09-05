@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CaptainQWasTaken
-- 👀 I’m interested in Revival, Private Servers and Indie/AAA Games!
-- 🌱 I’m currently making games!
-- 📫 How to reach me August#7331
+- 🌱 I’m currently making games with C#, C, HTML, CSS, JS and Python!
+- 📫 Reach me on discord: CaptainQ#7331
+- 👀 Need help with Funky Ducks or Pig Lands please email help.scopestar@gmail.com
 
 <!---
 CaptainQWasTaken/CaptainQWasTaken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
