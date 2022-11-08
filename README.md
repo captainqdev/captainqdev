@@ -4,7 +4,7 @@
 
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=CaptainQWasTaken&layout=compact&theme=github_dark" alt="alexislours"/> <br>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=CaptainQWasTaken&layout=compact&theme=github_dark" alt="CaptainQWasTaken"/> <br>
 
   <p align="center" </p>  
   
