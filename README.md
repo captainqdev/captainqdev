@@ -14,7 +14,6 @@
 
 
 
-- Interested in revival projects such as RE:Legion a bringing you a fully custom multiplayer modding platform! [our first blog](https://relegion.tk/blog/)
 - 📫 How to reach me: **[captainqdev@gmail.com](mailto:captainqdev@gmail.com)**
 - 👀 Need help with Funky Ducks or Pig Lands please email [support@scopestar.ml](mailto:support@scopestar.ml)
   
