@@ -11,7 +11,7 @@ Keep in mind most are still in development and much can change! Here is a small 
 <a href="https://github.com/World-Of-Cars-Supercharged">The World Of Cars Supercharged</a> - A The World of Cars Online private server. (EARLY DEVELOPMENT)<br>
 <a href="https://funkyducks.ml/">Funky Ducks</a> - My first attempt at a custom Virtual World (UNDER HEAVY CONSTRUCTION)<br>
 <a href="https://github.com/MSN-Revival">MSN Revival</a> -  Aims to revive MSN products such as all Messenger version till 7.0./<br>
-<a href="https://github.com/re-legion">RELegion</a> - An closed source mulitplayer modification for Watch Dogs Legion<br>
+<a href="https://github.com/re-legion">RELegion</a> - An open source mulitplayer modification for Watch Dogs Legion<br>
 <a href="https://discord.gg/eyaE2ywbze">Mii Universe</a> - An open source Miiverse revival!<br>
 <a href="https://littlepenguin.ml/">Little Penguins</a> - A Club penguin Private Server.<br>
 <a href="https://discord.gg/8u6KBK8cAA">Sonic Runners Rewritten</a> - A Sonic Runners Private Server
