@@ -1,24 +1,33 @@
-<h1 align="center">Hi 👋, I'm CaptainQ</h1>
+### Introduction
+Hello! Welcome to my Github Page!<br>
+About me:<br>
+Age: 15 (16 soon!)<br>
+Height: 6ft<br>
+Interests: Making Software, reverse engineering of old defunct games!<br>
 
+### What do I mainly do?
+I mainly reverse engineer defunct games like <a href="https://github.com/MacroMonos/">MacroMonos</a> and/or I make virtual worlds like <a href="https://funkyducks.ml/">Funky Ducks</a>!
 
-![trophy](https://github-profile-trophy.vercel.app/?username=captainqwastaken&row=2&column=3)
-  <p align="center" </p>  
-  
-  
+### What Projects am I currently working on?
+Keep in mind most are still in development and much can change! Here is a small list of projects I've worked on:<br><br>
 
+<a href="https://github.com/MacroMonos/">MacroMonos</a> - The first and real recreation of the now defunct virtual world MiniMonos.<br>
+<a href="https://github.com/World-Of-Cars-Supercharged">The World Of Cars Supercharged</a> - A The World of Cars Online private server. (EARLY DEVELOPMENT)<br>
+<a href="https://funkyducks.ml/">Funky Ducks</a> - My first attempt at a custom Virtual World (UNDER HEAVY CONSTRUCTION)<br>
+<a href="https://github.com/MSN-Revival">MSN Revival</a> -  Aims to revive MSN products such as all Messenger version till 7.0./<br>
+<a href="https://discord.gg/eyaE2ywbze">Mii Universe</a> - An open source Miiverse revival!<br>
+<a href="https://littlepenguin.ml/">Little Penguins</a> - A Club penguin Private Server.<br>
+<a href="https://discord.gg/8u6KBK8cAA">Sonic Runners Rewritten</a> - A Sonic Runners Private Server
 
-
-
-
-- 📫 How to reach me: **[captainqdev@gmail.com](mailto:captainqdev@gmail.com)**
-- 👀 Need help with Funky Ducks or Pig Lands please email [support@scopestar.ml](mailto:support@scopestar.ml)
-  
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=CaptainQWasTaken&layout=compact&theme=github_dark" alt="CaptainQWasTaken"/><p align="center"> 
-
-<!---
-CaptainQWasTaken/CaptainQWasTaken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--
+**ctrlkohl/ctrlkohl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
