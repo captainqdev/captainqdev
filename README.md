@@ -15,7 +15,8 @@ Keep in mind most are still in development and much can change! Here is a small 
 <a href="https://discord.gg/eyaE2ywbze">Mii Universe</a> - An open source Miiverse revival!<br>
 <a href="https://littlepenguin.ml/">Little Penguins</a> - A Club penguin Private Server.<br>
 <a href="https://discord.gg/8u6KBK8cAA">Sonic Runners Rewritten</a> - A Sonic Runners Private Server<br>
-<a href="https://github.com/captainqdev/isla-glaciar">Isla Glaciar</a> - Something Club Penguin Island related (REVEALED SOON!)
+<a href="https://github.com/captainqdev/isla-glaciar">Isla Glaciar</a> - Something Club Penguin Island related (REVEALED SOON!)<br>
+<a href="https://github.com/saleros">Saleros</a> - A team of Python Developers making the first public version of Card Jitsu Snow
 
 <!--
 **ctrlkohl/ctrlkohl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
